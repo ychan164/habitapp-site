@@ -230,6 +230,17 @@ samp {
   unicode-bidi: bidi-override;
 }
 
+#prototyping {
+  background-color: white;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.design-rationale {
+  width: 80%;
+}
+
 pre {
   display: block;
   margin-top: 0;
