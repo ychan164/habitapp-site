@@ -241,6 +241,16 @@ samp {
   width: 80%;
 }
 
+#figma-frame {
+  width: 80%;
+  height: 700px;
+  margin-right: auto;
+  margin-left:auto;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+}
+
 pre {
   display: block;
   margin-top: 0;
